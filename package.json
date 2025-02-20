@@ -51,5 +51,16 @@
   "main": "tailwind.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logesh200281/sankara.git"
+  },
+  "bugs": {
+    "url": "https://github.com/logesh200281/sankara/issues"
+  },
+  "homepage": "https://github.com/logesh200281/sankara#readme"
 }
